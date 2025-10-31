@@ -1,0 +1,1 @@
+This repository highlights several modules of interest, selected from a broader set of implemented solutions—not for coding complexity, but for architectural design, integration, and usability in operator-driven environments.
